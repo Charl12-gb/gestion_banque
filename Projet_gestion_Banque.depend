@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616088302 source:e:\langage c\exocours\projet_gestion_banque\main.c
+	<stdio.h>
+	<stdlib.h>
+
